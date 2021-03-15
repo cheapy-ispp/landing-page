@@ -6,4 +6,5 @@ title: Gabriel Gutiérrez
 description: |
 ---
 Secretario y Desarrollador BackEnd
+
 Mejor habilidad: Organización

@@ -1,0 +1,10 @@
+---
+layout: default
+img: david.jpg
+category: Services
+title: David Soto
+description: |
+---
+Desarrollador FrontEnd
+
+Mejor habilidad: Adaptabilidad

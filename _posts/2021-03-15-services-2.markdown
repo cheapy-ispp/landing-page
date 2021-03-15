@@ -1,9 +1,10 @@
 ---
 layout: default
-img: thibaut.png
+img: thibaut.jpg
 category: Services
 title: Thibaut Lopez
 description: |
 ---
 Portavoz y Desarrollador BackEnd
+
 Mejor habilidad: Comunicación

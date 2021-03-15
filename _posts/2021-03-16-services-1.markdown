@@ -1,0 +1,10 @@
+---
+layout: default
+img: javier.jpg
+category: Services
+title: Javier Granja
+description: |
+---
+Desarrollador BackEnd
+
+Mejor habilidad: Trabajo en equipo

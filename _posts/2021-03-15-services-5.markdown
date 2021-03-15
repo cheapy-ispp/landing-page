@@ -1,0 +1,10 @@
+---
+layout: default
+img: pablo.jpg
+category: Services
+title: Pablo Franco
+description: |
+---
+Desarrollador FrontEnd
+
+Mejor habilidad: Adaptabilidad

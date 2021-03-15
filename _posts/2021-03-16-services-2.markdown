@@ -1,0 +1,10 @@
+---
+layout: default
+img: antonio.jpg
+category: Services
+title: Antonio Vidal
+description: |
+---
+Desarrollador BackEnd
+
+Mejor habilidad: Productividad
