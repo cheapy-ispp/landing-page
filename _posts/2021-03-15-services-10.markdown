@@ -1,10 +1,10 @@
 ---
 layout: default
-img: gabriel.jpg
+img: javier.jpg
 category: Services
-title: Gabriel Gutiérrez
+title: Javier Granja
 description: |
 ---
 Secretario y Desarrollador BackEnd.
 
-Mejor habilidad: Organización
+Mejor habilidad: Trabajo en equipo
