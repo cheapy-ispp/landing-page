@@ -5,6 +5,6 @@ category: Services
 title: Florentina Correa
 description: |
 ---
-Arquitecta Microsoft y Documentadora.
+Arquitecta Microsoft y Documentadora
 
 Mejor habilidad: Organización

@@ -5,6 +5,6 @@ category: Services
 title: Javier Granja
 description: |
 ---
-Secretario y Desarrollador BackEnd.
+Desarrollador BackEnd
 
 Mejor habilidad: Trabajo en equipo

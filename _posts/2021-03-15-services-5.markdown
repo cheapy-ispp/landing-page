@@ -5,6 +5,6 @@ category: Services
 title: Pablo Franco
 description: |
 ---
-Desarrollador FrontEnd.
+Desarrollador FrontEnd
 
 Mejor habilidad: Adaptabilidad

@@ -5,6 +5,6 @@ category: Services
 title: Antonio Vidal
 description: |
 ---
-Desarrollador BackEnd.
+Desarrollador BackEnd
 
 Mejor habilidad: Productividad

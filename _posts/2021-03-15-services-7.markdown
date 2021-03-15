@@ -5,6 +5,6 @@ category: Services
 title: Abraham García
 description: |
 ---
-Desarrollador FrontEnd.
+Desarrollador FrontEnd
 
 Mejor habilidad: Adaptabilidad
