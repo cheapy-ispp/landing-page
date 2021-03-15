@@ -2,6 +2,8 @@
 layout: default
 img: martin.jpg
 img2: thibaut.jpg
+img3: flor.jpg
+img4: gabriel.jpg
 category: Services
 title: Organización
 description: |
