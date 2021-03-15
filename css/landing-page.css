@@ -21,12 +21,6 @@ h6 {
     font-weight: 700;
 }
 
-.square {
-    height: 50%;
-    width: 50%;
-    background-color: rgb(15, 15, 15);
-  }
-
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -43,7 +37,7 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
+    padding-top: 7%;
     padding-bottom: 20%;
 }
 
