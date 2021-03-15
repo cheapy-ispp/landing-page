@@ -1,0 +1,10 @@
+---
+layout: default
+img: flor.jpg
+category: Services
+title: Florentina Correa
+description: |
+---
+Arquitecta Microsoft y Documentadora.
+
+Mejor habilidad: Organización

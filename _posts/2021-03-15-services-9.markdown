@@ -1,0 +1,10 @@
+---
+layout: default
+img: abel.jpg
+category: Services
+title: Abel Morante
+description: |
+---
+Desarrollador BackEnd.
+
+Mejor habilidad: Trabajo en equipo

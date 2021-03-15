@@ -1,0 +1,10 @@
+---
+layout: default
+img: angel.jpg
+category: Services
+title: Ángel Caballero
+description: |
+---
+Desarrollador FrontEnd.
+
+Mejor habilidad: Productividad
