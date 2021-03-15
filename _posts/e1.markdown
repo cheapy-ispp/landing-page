@@ -1,0 +1,9 @@
+---
+layout: default
+img: martin.jpg
+category: Services
+title: Martín A. Guerrero
+description: |
+---
+Jefe del proyecto y Documentador
+Mejor habilidad: Comunicación
