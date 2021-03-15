@@ -21,6 +21,12 @@ h6 {
     font-weight: 700;
 }
 
+.square {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(15, 15, 15);
+  }
+
 .lead {
     font-size: 18px;
     font-weight: 400;
