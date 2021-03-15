@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  # - title: twitter
-  #   url: https://twitter.com/SBootstrap
+  - title: twitter
+    url: https://twitter.com/
   - title: github
     url: https://github.com/cheapy-issp
-  # - title: linkedin
-  #   url: 
+  - title: linkedin
+    url: 
