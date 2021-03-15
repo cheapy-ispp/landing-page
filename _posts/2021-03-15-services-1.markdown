@@ -5,6 +5,6 @@ category: Services
 title: Martín A. Guerrero
 description: |
 ---
-Jefe del proyecto y Documentador.
+Jefe del proyecto y Documentador
 
 Mejor habilidad: Comunicación

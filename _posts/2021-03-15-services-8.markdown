@@ -5,6 +5,6 @@ category: Services
 title: Ángel Caballero
 description: |
 ---
-Desarrollador FrontEnd.
+Desarrollador FrontEnd
 
 Mejor habilidad: Productividad

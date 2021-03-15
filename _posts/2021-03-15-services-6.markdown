@@ -5,6 +5,6 @@ category: Services
 title: David Soto
 description: |
 ---
-Desarrollador FrontEnd.
+Desarrollador FrontEnd
 
 Mejor habilidad: Adaptabilidad

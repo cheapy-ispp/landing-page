@@ -5,6 +5,6 @@ category: Services
 title: Abel Morante
 description: |
 ---
-Desarrollador BackEnd.
+Desarrollador BackEnd
 
 Mejor habilidad: Trabajo en equipo

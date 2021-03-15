@@ -5,6 +5,6 @@ category: Services
 title: Thibaut Lopez
 description: |
 ---
-Portavoz y Desarrollador BackEnd.
+Portavoz y Desarrollador BackEnd
 
 Mejor habilidad: Comunicación
