@@ -24,6 +24,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: Web
+    url: https://cheapy-web.herokuapp.com
   - title: github
     url: https://github.com/cheapy-ispp
   - title: gmail
