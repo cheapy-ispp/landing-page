@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://cheapy-issp.github.io/landing-page
+url: https://cheapy-ofertas.github.io/landing-page
 title: Cheapy
 email: cheapy.ispp@gmail.com
-author: Cheapy ISPP 2021
+author: Cheapy 2021
 description: >  
   Cheapy se trata de una aplicación web que ofrece descuentos poco comunes a los clientes de bares y restaurantes.
 copyright: 'Copyright &copy; 2021 Cheapy. All Rights Reserved.'
@@ -25,8 +25,8 @@ permalink: pretty
 
 social:
   - title: Web
-    url: https://cheapy-web.herokuapp.com
+    url: https://cheapy-ofertas.herokuapp.com
   - title: github
-    url: https://github.com/cheapy-ispp
+    url: https://github.com/cheapy-ofertas
   - title: gmail
     url: mailto:cheapy.ispp@gmail.com
